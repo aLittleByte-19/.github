@@ -5,7 +5,7 @@ Accesso alla documentazione: https://alittlebyte-19.github.io/Documentazione/
 | :--- | :--- |
 | **Eleonora Bellet** | [@eleonorabellet](https://github.com/eleonorabellet) |
 | **Diego Belluz** | [@dieguz22](https://github.com/dieguz22) |
-| **Angelica Gastaldetto** | [@angelica-gastal](https://github.com/angelica-gastal) |
+| **Angelica Gastaldello** | [@angelica-gastal](https://github.com/angelica-gastal) |
 | **Vinicius Yuri Kaneda Fernandes** | [@VinnYuri](https://github.com/VinnYuri) |
 | **Angela Maule** | [@angelamaule](https://github.com/angelamaule) |
 | **Alex Oloni** | [@ArekkusuIT](https://github.com/ArekkusuIT) |
