@@ -1,7 +1,14 @@
 # aLittleByte
-Organizzazione creata allo scopo di realizzare il progetto di Ingegneria del Software (SWE) per l'anno accademico 2025/26.
-Accesso alla documentazione: https://alittlebyte-19.github.io/Documentazione/
-Accesso alla dashboard per seguire lo sviluppo: https://github.com/orgs/aLittleByte-19/projects/1/views/1
+
+Organizzazione creata allo scopo di realizzare il progetto di **Ingegneria del Software (SWE)** per l'anno accademico 2025/26 presso l'Università di Padova.
+
+## Risorse
+
+- **Documentazione:** https://alittlebyte-19.github.io/Documentazione/
+- **Dashboard di progetto:** https://github.com/orgs/aLittleByte-19/projects/1/views/1
+
+## Componenti del team
+
 | Nome Cognome | GitHub Username |
 | :--- | :--- |
 | **Eleonora Bellet** | [@eleonorabellet](https://github.com/eleonorabellet) |
